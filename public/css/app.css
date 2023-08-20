@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css2?family=Changa+One&display=swap);
+*{
+    font-family: 'Changa One', cursive;
+}
+.logo{
+    width: 40px;
+}
+.album-cover{
+    width: 50px;
+}
